@@ -3,7 +3,7 @@
 This is an implementation of simple chatting application coded on Java. 
 
 ## Running Code
-You must run the server first.
+You must run the server first. To connect to server, clients have to know the ip of server and modify the code with that ip.
 
 ### Server
 ```
